@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.exe
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.deps.json
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.dll
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\ref\Report in excel.dll
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\Report in excel.pdb
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.dll
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\ref\Report in excel.dll
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.pdb
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\User\OneDrive\Documents\Report in excel\Report in excel\obj\Debug\net5.0\Report in excel.csproj.CopyComplete
